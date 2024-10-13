@@ -6,19 +6,19 @@
             "value": "nonprod"
         },
         "postgreSQLServerName": {
-            "value": "akhreiche-dbsrv-dev"
+            "value": "akhreiche-dbsrv-uat"
         },
         "postgreSQLDatabaseName": {
-            "value": "akhreiche-db-dev"
+            "value": "akhreiche-db-uat"
         },
         "appServicePlanName": {
-            "value": "akhreiche-asp-dev"
+            "value": "akhreiche-asp-uat"
         },
         "appServiceAPIAppName": {
-            "value": "akhreiche-be-dev"
+            "value": "akhreiche-be-uat"
         },
         "appServiceAppName": {
-            "value": "akhreiche-fe-dev"
+            "value": "akhreiche-fe-uat"
         },
         "location": {
             "value": "North Europe"
